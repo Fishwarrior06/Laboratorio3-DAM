@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+    <Button
+        android:id="@+id/btnAddTasks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/agregar_tareas_de_ejemplo"/>
+    <Button
+        android:id="@+id/btnCompleteTask"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/completar_tarea_1"
+        android:layout_marginTop="8dp"/>
+    <TextView
+        android:id="@+id/tvTasks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:textSize="18sp"/>
+</LinearLayout>

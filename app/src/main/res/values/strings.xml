@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaskMasterKotlin</string>
+    <string name="agregar_tareas_de_ejemplo">Agregar tareas de ejemplo</string>
+    <string name="completar_tarea_1">Completar tarea 1</string>
+</resources>
